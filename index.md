@@ -1,4 +1,16 @@
 ---
+## Multi-style GenAI image-based speech synthesis
+
+| <center> Reference Face </center> | <center> Text </center> | <center> FaceSpeak </center> |  <center> MM-TTS </center> |
+| -----------     |  -----------    | -----------    | -----------     |
+| ![](Resource/multi-style/sad1.jpg) | His shoulder felt as if it were broken.| <audio src="Resource/multi-style2/sad1.wav" controls preload></audio> |<audio src="Resource/multi-style/sad1.wav" controls preload></audio> |
+| ![](Resource/multi-style/angry1.jpg) | His shoulder felt as if it were broken. | level-1 <audio src="Resource/multi-style/angry1.wav" controls preload></audio> level-2 <audio src="Resource/multi-style/angry1.wav" controls preload></audio> level-3 <audio src="Resource/multi-style/angry1.wav" controls preload></audio> |  <audio src="Resource/multi-style/angry1.wav" controls preload></audio>  |
+| ![](Resource/multi-style/happy1.jpg) | One even gave my little dog a biscuit. |  <audio src="Resource/multi-style/happy1.wav" controls preload></audio>  |  <audio src="Resource/multi-style/happy1.wav" controls preload></audio>  |
+| ![](Resource/multi-style/fear1.jpg) | No the man was not drunk he wondered how he got tied up with this stranger. | <audio src="Resource/multi-style/fear1.wav" controls preload></audio>  | <audio src="Resource/multi-style/fear1.wav" controls preload></audio> |
+| ![](Resource/multi-style/surprise1.jpg) | He ate four extra eggs for breakfast. | <audio src="Resource/multi-style/surprise1.wav" controls preload></audio>  | <audio src="Resource/multi-style/surprise1.wav" controls preload></audio> |
+| ![](Resource/multi-style/angry2.jpg) | Why else would Danny allow others to go? | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> |
+| ![](Resource/multi-style/happy3.jpg) | Obviously the bridal pair has many adjustments to make to their new situation.| <audio src="Resource/multi-style/angry2.wav" controls preload></audio>  |  <audio src="Resource/multi-style/happy3.wav" controls preload></audio>|
+| ![](Resource/multi-style/sad4.jpg) | The revolution now under way in materials handling makes this much easier. | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> | <audio src="Resource/multi-style/sad4.wav" controls preload></audio> |
 
 ## Real image-based speech synthesis
 
@@ -10,15 +22,3 @@
 |  ![](Resource/Oulu/P002_Disgust_1_1_011_1.jpeg)  | Haste, lest you damn me to spend eternity as a filthy gaunt of darkness. | <audio src="Resource/Oulu/facespeak/P002_Disgust_1_1_011_1.wav" controls preload></audio>  |  <audio src="Resource/Oulu/mmss/face_P002_Disgust_011_W.wav" controls preload></audio>  | <audio src="Resource/Oulu/mmtts/face_P002_Disgust_011_W.wav" controls preload></audio>  |
 |  ![](Resource/Oulu/P046_Surprise_1_1_013_0.jpeg)  | As soon as I was with her as I should be, She said to me: "Why, brother, dost thou not Venture to question now, in coming with me?"  | <audio src="Resource/Oulu/facespeak/P046_Surprise_1_1_013_0.wav" controls preload></audio> |  <audio src="Resource/Oulu/mmss/face_P046_Surprise_013_M.wav" controls preload></audio>  | <audio src="Resource/Oulu/mmtts/face_P046_Surprise_013_M.wav" controls preload></audio> |
 
-## Multi-style GenAI image-based speech synthesis
-
-| <center> Reference Face </center> | <center> Text </center> | <center> FaceSpeak </center> |  <center> MM-TTS </center> |
-| -----------     |  -----------    | -----------    | -----------     |
-| ![](Resource/multi-style/sad1.jpg) | His shoulder felt as if it were broken.| <audio src="Resource/multi-style/sad1.wav" controls preload></audio> |<audio src="Resource/multi-style/sad1.wav" controls preload></audio> |
-| ![](Resource/multi-style/angry1.jpg) | His shoulder felt as if it were broken. |  <audio src="Resource/multi-style/angry1.wav" controls preload></audio>  |  <audio src="Resource/multi-style/angry1.wav" controls preload></audio>  |
-| ![](Resource/multi-style/happy1.jpg) | One even gave my little dog a biscuit. |  <audio src="Resource/multi-style/happy1.wav" controls preload></audio>  |  <audio src="Resource/multi-style/happy1.wav" controls preload></audio>  |
-| ![](Resource/multi-style/fear1.jpg) | No the man was not drunk he wondered how he got tied up with this stranger. | <audio src="Resource/multi-style/fear1.wav" controls preload></audio>  | <audio src="Resource/multi-style/fear1.wav" controls preload></audio> |
-| ![](Resource/multi-style/surprise1.jpg) | He ate four extra eggs for breakfast. | <audio src="Resource/multi-style/surprise1.wav" controls preload></audio>  | <audio src="Resource/multi-style/surprise1.wav" controls preload></audio> |
-| ![](Resource/multi-style/angry2.jpg) | Why else would Danny allow others to go? | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> |
-| ![](Resource/multi-style/happy3.jpg) | Obviously the bridal pair has many adjustments to make to their new situation.| <audio src="Resource/multi-style/angry2.wav" controls preload></audio>  |  <audio src="Resource/multi-style/happy3.wav" controls preload></audio>|
-| ![](Resource/multi-style/sad4.jpg) | The revolution now under way in materials handling makes this much easier. | <audio src="Resource/multi-style/angry2.wav" controls preload></audio> | <audio src="Resource/multi-style/sad4.wav" controls preload></audio> |
